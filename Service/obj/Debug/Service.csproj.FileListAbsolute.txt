@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Service\Service\bin\Debug\Service.exe.config
+C:\Users\Lenovo\source\repos\Service\Service\bin\Debug\Service.exe
+C:\Users\Lenovo\source\repos\Service\Service\bin\Debug\Service.pdb
+C:\Users\Lenovo\source\repos\Service\Service\obj\Debug\Service.ProjectInstaller.resources
+C:\Users\Lenovo\source\repos\Service\Service\obj\Debug\Service.Service1.resources
+C:\Users\Lenovo\source\repos\Service\Service\obj\Debug\Service.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Service\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Service\Service\obj\Debug\Service.exe
+C:\Users\Lenovo\source\repos\Service\Service\obj\Debug\Service.pdb
+C:\Users\Lenovo\source\repos\Service\Service\obj\Debug\Service.csprojAssemblyReference.cache
